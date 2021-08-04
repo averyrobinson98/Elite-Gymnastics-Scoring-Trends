@@ -6,7 +6,8 @@ Final paper: https://www.bruinsportsanalytics.com/post/elite_gymnastics
 
 
 
-<div style="float:left;margin:0 10px 10px 0" <img style="float: left;" src="images/Difficulty_Comparison.png" width="500" height="290"> 
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+<img style="float: left;" src="images/Difficulty_Comparison.png" width="500" height="290"> 
  </div>
  
  <img style="float: right;" src="images/nastia.jpeg" width = "400">
