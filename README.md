@@ -4,6 +4,11 @@ Data Journalism article produced for Bruin Sports Analytics at UCLA. Analyzed sc
 
 Final paper: https://www.bruinsportsanalytics.com/post/elite_gymnastics
 
- <img style="float: left;" src="images/Difficulty_Comparison.png" width="500" height="290"> <img style="float: right;" src="images/nastia.jpeg" width = "400">
+
+
+<div style="float:left;margin:0 10px 10px 0" <img style="float: left;" src="images/Difficulty_Comparison.png" width="500" height="290"> 
+ </div>
+ 
+ <img style="float: right;" src="images/nastia.jpeg" width = "400">
 
 
